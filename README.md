@@ -1,4 +1,4 @@
-# Hello, I'm Elias... here @eliash8
-## I'm here to LEARN & CONTRIBUTE
-### - ✍️ I’m interested in Python, Blender
+# Hi, I'm Elias Mocik 👋
 
+🎓 Engineering student at **Trinity College Dublin**
+🌍 Based between Dublin & Bratislava
