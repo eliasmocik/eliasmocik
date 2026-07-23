@@ -6,4 +6,4 @@
 
 ## 📫 Connect
 
-- 💼 [LinkedIn](#) linkedin.com/in/elias-mocik-a6b97238b
+- 💼 [LinkedIn](#) linkedin.com/in/elias-mocik
